@@ -1,0 +1,14 @@
+.form-group{
+    margin-bottom: 15px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 100%;
+    outline: 0;
+    padding-left: 5px;
+}
